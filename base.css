@@ -1,0 +1,11 @@
+body {
+    padding: 0px;
+    margin: 0px;
+}
+
+div,span {
+    background-color: white;
+}
+#mapid {
+    height: 100vh;
+}
