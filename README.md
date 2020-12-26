@@ -6,3 +6,6 @@ Sample program that acquires an overview of Wikipedia based on the data acquired
 [component]
 osmtogeojson.js
 https://github.com/tyrasd/osmtogeojson
+
+leaflet.js
+https://leafletjs.com/
